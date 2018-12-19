@@ -72,7 +72,7 @@ This extension provides full Puppet Language support for [Visual Studio Code](ht
 
 You will need to have the [Puppet Agent](https://puppet.com/docs/puppet/4.10/about_agent.html)  or [Puppet Development Kit (PDK)](https://puppet.com/docs/pdk/1.x/pdk.html) installed in order to fully use this extension.
 
-> Note: PDK version 1.5.0 or higher is required.
+> Note: PDK version 1.5.0 or higher is required; to use PDK you need to change the option puppet.installType to `pdk`
 
 You can find instructions and installation links here:
 
